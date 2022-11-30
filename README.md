@@ -56,3 +56,22 @@
 | sample49.wav  | Very High  | ![image](https://user-images.githubusercontent.com/49782156/204821346-a35b20ac-50ef-40c5-958f-1ee263d68ada.png) | Walk  | W A  |
 | sample50.wav  | High  | ![image](https://user-images.githubusercontent.com/49782156/204821389-a8a5703e-8ab4-4e39-b8e6-1e6217cade1d.png) | Neck Pain  | Neck Pain  |
 | sample51.wav  | High  | ![image](https://user-images.githubusercontent.com/49782156/204821449-5b3938aa-893a-4362-a7d2-2532f916015c.png) | Too Cold  | Too Cold  |
+
+### Complex testcases
+Can You Walk Me To Bed
+![Can You Walk Me To Bed](https://user-images.githubusercontent.com/49782156/204823999-f8fb41bd-756d-4131-8650-2fa8e2a6f5ee.png)
+Cannot Bath Today
+![Cannot Bath Today](https://user-images.githubusercontent.com/49782156/204824342-bea1782d-4c39-4475-91d5-53bb583f82de.png)
+My Left Eye Is Itchy
+![My Left Eye Is Itchy](https://user-images.githubusercontent.com/49782156/204824462-596cd8c9-1d8d-4a52-8731-3844029933fc.png)
+Want Bread With Jam And Butter
+![Want Bread With Jam And Butter](https://user-images.githubusercontent.com/49782156/204824594-23439d03-7d9b-47d3-9767-d5c4e9835d96.png)
+Want To Drink Apple Soda
+![Want To Drink Apple Soda](https://user-images.githubusercontent.com/49782156/204824699-49a178af-c453-4fff-90e2-ef2788fe151d.png)
+Want To Have Some Fresh Air
+![Want To Have Some Fresh Air](https://user-images.githubusercontent.com/49782156/204824783-0bd5a473-79ce-4c0a-b40d-b6bb7970e365.png)
+Want To Pet My Dog
+![Want To Pet My Dog](https://user-images.githubusercontent.com/49782156/204824873-b38b36ad-b5dc-47c4-b8f9-f0310c7bbe7a.png)
+Want To Wear My Long Sleeve Shirt
+![Want To Wear My Long Sleeve Shirt](https://user-images.githubusercontent.com/49782156/204825006-2066c8b2-a720-4199-9815-d0b6a99bf985.png)
+
